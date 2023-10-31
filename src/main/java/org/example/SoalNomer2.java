@@ -1,18 +1,7 @@
 package org.example;
 
-
-
-
 public class SoalNomer2 {
-    public static String[] kataKe = new String[5];
-    public static int huruf;
-
-    public static String susunanKata;
-
-
-
     public static void main(String[] args) {
-        DataAnalist dataAnalist = new DataAnalist();
 
     }
     static void  perulangan(int start, int end) {
